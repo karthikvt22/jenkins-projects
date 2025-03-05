@@ -30,7 +30,3 @@ A Jenkins pipeline with multiple stages for a complete CI/CD process.
 - Jenkins installed with Pipeline plugin.
 - Docker installed and running.
 
-### **Usage**
-1. Clone the repository:
-   ```sh
-   git clone https
