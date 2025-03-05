@@ -14,7 +14,7 @@ A simple Jenkins pipeline that runs a single stage.
 
 ---
 
-### 2️⃣ Multi-Stage Pipeline
+### Multi-Stage Pipeline
 A Jenkins pipeline with multiple stages for a complete CI/CD process.
 
 #### **File:** `multi-stage/Jenkinsfile`
